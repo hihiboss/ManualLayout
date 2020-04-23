@@ -33,11 +33,11 @@ Add the following line in your `Podfile`.
 
 ```
 pod "ManualLayout"
-```	
+```
 
 # Usage
 
-Just `import ManualLayout` in your code and use the methods and properties provided by the library to layout your views. You can check out the cheat sheet below for a compact list of everything. There are also [example projects](https://github.com/isair/ManualLayout/tree/master/Examples) to get you started.
+Just `import ManualLayout` in your code and use the methods and properties provided by the library to layout your views. You can check out the cheat sheet below for a compact list of everything. There are also [example projects](https://github.com/isair/ManualLayout/tree/master/SimpleExample) to get you started.
 
 
 # API Cheat Sheet
